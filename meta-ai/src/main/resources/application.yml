@@ -34,7 +34,7 @@ vector:
   store: "chroma"
 
 server:
-  port: 8080
+  port: 18080
 
 # 文件上传配置
 app:
